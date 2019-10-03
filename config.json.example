@@ -1,0 +1,8 @@
+{
+  "HOST": "localhost",
+  "PORT": 1234,
+  "STT_IBM_URL": "ibm text-to-speech url",
+  "STT_IBM_KEY": "ibm text-to-speech key",
+  "TTS_IBM_URL": "ibm speech-to-text url",
+  "TTS_IBM_KEY": "ibm speech-to-text key"
+}
