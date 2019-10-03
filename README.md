@@ -1,5 +1,5 @@
 ---
-## Python WebSocket recognition API
+## Audio analization pipeline
 
 The WebSocket API created to communicate with speaking client in real-time
 This API receives the binary audio data as input and responses with binary audio data as the output
